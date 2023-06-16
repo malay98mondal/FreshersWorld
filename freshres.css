@@ -1,0 +1,86 @@
+/* external styles for flex application (flexstyles.css) */
+#heading{
+	text-align:center;
+	color:rgb(47, 0, 255);
+    
+}
+#body{
+    border: 80%;
+}
+#flexdiv{
+	display:flex;
+	flex-direction:row;
+	gap:80px;
+	text-align:center; 
+	
+    
+    
+     
+}
+#flexdiv1{
+	display:flex;
+	flex-direction:row;
+	gap:20px;
+	text-align:center; 
+	
+
+}
+#flexdiv2{
+	
+gap: 10px;
+
+
+}
+h6{
+text-transform: capitalize;
+text: size adjust 10px;;
+}
+#div2{
+	block-size: 80%;
+}
+#div3{
+	block-size: 20%;
+
+}
+#div4{
+	block-size: 20%;
+
+}
+img{
+	width:50px;
+	height:50px;
+    
+}
+#main-div{
+	 background:rgb(43, 41, 41); 
+   
+    
+}
+h4{
+    color:white;
+}
+p{
+    color:darkgray;
+
+}
+.row {
+	display: flex;
+  }
+  
+  .column {
+	flex: 33.33%;
+	padding: 5px;
+  }
+  #img1{
+	border-radius: 50%;
+	grid-auto-flow: row;
+	
+	color: aqua;
+	
+  }
+  li{
+	color:darkgray;
+  }
+  #div4{
+	text-align: left;
+  }
